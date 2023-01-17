@@ -1,0 +1,19 @@
+.list{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.innerlist{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 20px;
+    background-color: rgba(138, 43, 226, 0.1);
+}
